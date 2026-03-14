@@ -1,0 +1,15 @@
+name: README.md
+description: Standard repository documentation file providing project overview, setup
+  instructions, and usage examples. Automatically displayed on repository landing
+  pages by GitHub, GitLab, and other hosting platforms.
+url: ''
+tags:
+- Documentation
+- Repository
+- Git
+- Project Overview
+- Onboarding
+created: '2025'
+modified: '2025'
+apis: []
+common: []
