@@ -1,4 +1,16 @@
 aid: readme-md
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/readme-md.png
 name: README.md
 description: Standard repository documentation file providing project overview, setup instructions, and usage examples. Automatically displayed on repository landing pages by GitHub, GitLab, and other hosting platforms.
 type: Index
