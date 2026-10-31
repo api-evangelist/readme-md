@@ -1,4 +1,4 @@
-# README.md (readme-md)
+# README.md
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,25 +66,24 @@
 
 Standard repository documentation file providing project overview, setup instructions, and usage examples. Automatically displayed on repository landing pages by GitHub, GitLab, and other hosting platforms.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/readme-md/refs/heads/main/apis.yml)
+**Areas:** Documentation · Git · Onboarding · Project Overview · Repository
 
-## Scope
+## README.md on APIs.io
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+Everything profiled for README.md is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/readme-md/](https://apis.io/providers/readme-md/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+## API Evangelist rating
 
- - Documentation, Repository, Git, Project Overview, Onboarding
+Not yet rated. See [apis.io/providers/readme-md/](https://apis.io/providers/readme-md/).
 
-## Timestamps
+## How this profile is made
 
-- **Created:** 2025-01-01 
-- **Modified:** 2026-04-28 
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Maintainers
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for README.md: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-**FN:** Kin Lane
+## Open an issue
 
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/readme-md/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
